@@ -1,3 +1,3 @@
-## welcome to visit my hompage
+## Welcome to visit my hompage !
 
-feel free to visit https://hsrxr.github.io/
+Feel free to visit https://hsrxr.github.io/
